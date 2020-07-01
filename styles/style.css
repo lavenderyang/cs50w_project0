@@ -4,3 +4,27 @@ footer {
     padding: 20px; 
     margin: 20px; 
 }
+
+.changecolor:hover {
+    color: skyblue;
+}
+
+table {
+    border: 2px solid black; 
+    border-collapse: collapse;
+    width:50%
+}
+
+th, td {
+    border: 1px solid black; 
+    padding: 5px; 
+    text-align: center;
+}
+
+th {
+    background-color: lightblue;
+}
+
+div {
+    margin: 20px; 
+}
